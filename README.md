@@ -1,4 +1,4 @@
-````md
+
 # IndyAssist
 
 **Try it:** [https://majestic-choux-c20cfa.netlify.app/](https://majestic-choux-c20cfa.netlify.app/)
@@ -192,5 +192,3 @@ This project is licensed under the MIT License.
 
 [1]: https://www.yeschat.ai/gpts-9t557kGYag5-Indy-AI-Chatbot?utm_source=chatgpt.com "Indy AI Chatbot-Free, Versatile AI-powered Chat"
 
-```
-```
