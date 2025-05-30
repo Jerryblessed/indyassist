@@ -1,3 +1,6 @@
+**Try it:** [https://majestic-choux-c20cfa.netlify.app/](https://majestic-choux-c20cfa.netlify.app/)
+
+
 # IndyAssist
 
 IndyAssist is an AI-powered chatbot application designed to assist Indianapolis residents by providing real-time information on city services, FAQs, and emergency contacts. Built with Vite, TypeScript, and Azure OpenAI, it offers a responsive and accessible user interface.
